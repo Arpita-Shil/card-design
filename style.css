@@ -1,0 +1,109 @@
+.img1 img{
+    width: 350px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+    
+}
+
+.info1{
+    width: 300px;
+    padding: 20px 10px;
+    font-family: Arial;
+    line-height: 50%;
+
+}
+
+.info1 h3{
+    color: goldenrod;
+}
+
+.card1{
+    width: fit-content;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 30px;
+    display: inline-block;
+    
+}
+
+.fee1{
+    line-height: 20px;
+    display: inline-block;
+    color:black; 
+    width: 150px;
+}
+
+
+.img2 img{
+    width: 350px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+
+.info2{
+    width: 300px;
+    padding: 20px 10px;
+    font-family: Arial;
+    line-height: 50%;
+}
+
+.info2 h3{
+    color: goldenrod;
+}
+
+.card2{
+    width: fit-content;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 30px;
+    display: inline-block;
+    
+}
+
+.fee2{
+    line-height: 20px;
+    display: inline-block;
+    color:black; 
+    width: 150px;
+}
+
+.img3 img{
+    width: 350px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+
+}
+
+.info3{
+    width: 300px;
+    padding: 20px 10px;
+    font-family: Arial;
+    line-height: 50%;
+}
+
+.info3 h3{
+    color: goldenrod;
+}
+
+.card3{
+    width: fit-content;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 30px;
+    display: inline-block;
+    
+} 
+
+.fee3{
+    line-height: 20px;
+    display: inline-block;
+    color:black; 
+    width: 150px;
+}
+
+.part1{
+    background-color: rgb(236, 235, 235);
+    width: fit-content;
+    margin: 40px 20px;
+    padding: 20px;
+    border-radius: 30px
